@@ -1,0 +1,20 @@
+PODS:
+  - BAFluidView (0.2.6)
+  - SCLAlertView (0.8)
+
+DEPENDENCIES:
+  - BAFluidView
+  - SCLAlertView
+
+SPEC REPOS:
+  trunk:
+    - BAFluidView
+    - SCLAlertView
+
+SPEC CHECKSUMS:
+  BAFluidView: 4549a74865236c1ebb03fc06cddc979f7e28ac82
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+
+PODFILE CHECKSUM: 873bb14356dc6c368d395ff371996e28d9ef37f5
+
+COCOAPODS: 1.11.3
